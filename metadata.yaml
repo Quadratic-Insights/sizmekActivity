@@ -14,5 +14,5 @@
 homepage: "https://advertising.amazon.com/solutions/products/sizmek-ad-suite"
 documentation: "https://github.com/Quadratic-Insights/sizmekActivity/blob/main/README.md"
 versions:
-  - sha: afb52cfa2c0952930f0b6aca9269a8233dcdb55b
+  - sha: 8a63bef921180dc3425b95909a0334239178bc77
     changeNotes: Initial Version

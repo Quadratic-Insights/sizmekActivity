@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 homepage: "https://advertising.amazon.com/solutions/products/sizmek-ad-suite"
-documentation: "https://github.com/Quadratic-Insights/Sizmek/blob/master/README.md"
+documentation: "https://github.com/Quadratic-Insights/sizmekActivity/blob/main/README.md"
 versions:
   - sha: .*
     changeNotes: Initial Version

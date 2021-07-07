@@ -3,10 +3,10 @@
 This is the unofficial custom template for the Sizmek conversion activities for those who want to track conversions using Sizmek's legacy activity scripts instead of using Sizmek tag manager.
 
 # Author
+[Quadratic Insights](https://quadraticinsights.com/)
 
-Michael Ulrich (https://github.com/Mikeulrich75)
-&
-Quadratic Insights (https://quadraticinsights.com/).
+# Developer
+[Michael Ulrich](https://github.com/Mikeulrich75) 
 
 # Release Notes
 	
